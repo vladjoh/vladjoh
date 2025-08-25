@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🌱 I’m Vlad
 - 👯 I’m currently working with Microsoft security products
 - 🤝 Feel free to collaborate on my projects 
-- 💬 Reach out here or on linkedin 
+- 💬 Reach out here or on Linkedin 
