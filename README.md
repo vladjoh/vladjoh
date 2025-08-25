@@ -5,4 +5,4 @@
 - 🌱 I’m Vlad
 - 👯 I’m currently working with Microsoft security products
 - 🤝 Feel free to collaborate on my projects 
-- 💬 Reach out here or on Linkedin 
+- 💬 Reach out on Linkedin 
